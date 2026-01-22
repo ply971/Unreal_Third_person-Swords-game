@@ -1,0 +1,15 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# IDE/db artifacts
+*.VC.db
+*.VC.opendb
+*.ipch
+*.pch
+*.sdf
+*.opensdf
+*.opendb
